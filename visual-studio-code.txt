@@ -1,0 +1,21 @@
+Sekmeler arası geçiş:                      CTRL+TAB
+Yeni pencere:                                Ctrl+Shift+N
+Mevcut Pencereyi Kapatma:                  Ctrl+Shift+W
+Kullanıcı Ayarları:                          Ctrl+,
+Satırı satırlar arası taşımak:             Shift+Alt + ↓ / ↑
+Mevcut satırı siler:                         CTRL + SHIFT+ K
+Ekranı yukarı aşağı kaydırır:              Ctrl+↑ / ↓
+Yorum satırı ekle:                            Ctrl+K Ctrl+C
+Yorum satırı sil:                          Ctrl+K Ctrl+U
+Sözcük kaydırayı aç/kapat:                    Alt+Z
+Yorum blok açıklamasını aç / kapat:        Shift+Alt+A
+Satıra git:                                   CTRL + G
+Dosyaya git:                               CTRL + P
+Ara:                                          CTRL + F
+Arananı değiştirir:                        CTRL + H
+Aynısından bul:                               CTRL + D
+Mevcut satırı seçer:                       CTRL + L
+Önerileri aç/kapat:                           CTRL + SPACE
+İsim Değiştir:                             F2
+Debug çalıştır:                               F5
+İmleç ekler:                               ALT + CLICK

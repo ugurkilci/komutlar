@@ -1,0 +1,6 @@
+Sekme kapatma: CTRL+W
+Yeni sekme: CTRL+N
+Yeni Tab: CTRL+T
+Sekmeler arasında gezinmek: CTRL+TAB
+Hızlı arama: CTRL+E
+Adres çubuğuna yazma: ALT+D

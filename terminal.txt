@@ -1,0 +1,1 @@
+Dosya taşıma: cd <dosya adresi>

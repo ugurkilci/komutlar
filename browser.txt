@@ -10,4 +10,4 @@ Geçmiş:                       CTRL+H
 Görev yöneticisi:                 SHIFT+ESC
 Menü aç:                      ALT+F
 
-?> Adres çubuğundan yer işaretlerinin kısa yollarına erişemiyorum. T:N yazsam ve entere bassam, istediğim sitenin linkine şıp diye ulaşsam.. Böyle bir şeyi bulamadım. Bulan yazsın.
+?-> Adres çubuğundan yer işaretlerinin kısa yollarına erişemiyorum. T:N yazsam ve entere bassam, istediğim sitenin linkine şıp diye ulaşsam.. Böyle bir şeyi bulamadım. Bulan yazsın.

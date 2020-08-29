@@ -1,0 +1,2 @@
+# komut
+Seni hızlandıracak komutlar

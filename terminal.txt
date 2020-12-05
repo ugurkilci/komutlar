@@ -1,1 +1,2 @@
 Dosya taşıma: cd <dosya adresi>
+Klasör oluşturma: mkdir <klasör adı>
